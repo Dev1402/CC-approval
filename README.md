@@ -1,5 +1,5 @@
 # CC-approval
-We'll use the Credit Card Approval dataset from the UCI Machine Learning Repository. The structure of this notebook is as follows:
+I have use the Credit Card Approval dataset from the UCI Machine Learning Repository. The structure of this notebook is as follows:
 
 First, we will start off by loading and viewing the dataset.
 We will see that the dataset has a mixture of both numerical and non-numerical features, that it contains values from different ranges, plus that it contains a number of missing entries.
